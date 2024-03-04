@@ -1,5 +1,5 @@
 contract;
-2nnnnn
+2nnnn
 abi MyContract {
     fn test_function() -> bool;
 }
